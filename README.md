@@ -5,7 +5,7 @@
  
    
       
-  <h1> 𝗜'𝗺 Dhrisha DevaDhas <img src="https://github.com/Dhrisha-2002/Dhrisha-2002/blob/main/banner.jpeg" width="100" height="50">
+  <h1> 𝗜'𝗺 Dhrisha DevaDhas <img src="[https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif]" width="100" height="50">
        </h1>
 - 🔭 I’m Searching for job on Web Development <br>
 - 🌱 Worked Frondent Tech For Secure Code - [React js] <br>
