@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhrisha D</h1>
 <h3 align="center">A passionate Web Development & UI&UX Design </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="hhttps://github.com/Dhrisha-2002/Dhrisha-2002/blob/main/banner.jpeg">
  
    
       
