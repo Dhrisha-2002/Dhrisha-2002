@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhrisha D</h1>
-<h3 align="center">A passionate cyber security analyst </h3>
+<h3 align="center">A passionate Web Development & UI&UX Design </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
  
@@ -7,10 +7,10 @@
       
   <h1> 𝗜'𝗺 Krishna Kumar E.S <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
        </h1>
-- 🔭 I’m Searching for job on Security Engineer <br>
-- 🌱 Worked Backend Tech For Secure Code - [ Python , NodeJs ] <br>
-- 👯 I’m looking to collaborate on Security Testing & Secure Code Dev <br>
-- ❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
+- 🔭 I’m Searching for job on Web Development <br>
+- 🌱 Worked Frondent Tech For Secure Code - [React js] <br>
+- 👯 "I’m seeking collaboration in Frontend Development and Creative Design to craft visually appealing, user-friendly interfaces." <br>
+- ❤ I love doing **crafting secure and innovative designs that stand out!** For Hobby 🚀✨ <br>
 - 💻 I am Addicted to **Tea** 💎<br>
 ->> 
 
